@@ -1,4 +1,4 @@
-http://q1.qlogo.cn/g?b=qq&nk=” ＋ 编辑框1.内容 ＋ “&s=100
-https://r.qzone.qq.com/fcg-bin/cgi_get_portrait.fcg?uins=
-https://qqxieyi.cn/api_search.php?uin=1039227140
-https://www.showdoc.com.cn/1206194470320649?page_id=6084676352824485
+http://q1.qlogo.cn/g?b=qq&nk=1039227140&s=100      这是查询头像接口
+https://r.qzone.qq.com/fcg-bin/c ... fcg?uins=1039227140    查询账号网名 可以检验真实性
+https://qqxieyi.cn/api_search.php?uin=1039227140  查询账号全资料 第三方接口 稳定性不保证
+https://www.showdoc.com.cn/12061 ... id=6084676352824485  上边接口的开发文档
