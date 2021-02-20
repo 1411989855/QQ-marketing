@@ -1,4 +1,9 @@
+http://users.qzone.qq.com/fcg-bin/cgi_get_portrait.fcg?get_nick=1&uins=  验证QQ是否存在
+http://r.qzone.qq.com/cgi-bin/user/cgi_personal_card?uin= 判断QQ是否存在
+https://r.qzone.qq.com/fcg-bin/cgi_get_portrait.fcg?uins= 判断QQ是否存在
+https://cgi.vip.qq.com/card/getExpertInfo?ps_tk=397022032&fuin=%s&callback=jsonp2 达人接口
+https://qqxieyi.cn/api_search.php?uin=1274807709    查QQ资料接口全
+https://qqxieyi.cn/api_search_group.php?groupcode=584352688   查QQ群资料接口
+https://qqxieyi.cn/api_getsetting.php?uin=1274807709  查QQ加好友接口
+https://qqxieyi.cn/api_getsetting_group.php?groupcode=584352688 查QQ加群验证接口
 http://q1.qlogo.cn/g?b=qq&nk=1039227140&s=100      这是查询头像接口
-https://r.qzone.qq.com/fcg-bin/c ... fcg?uins=1039227140    查询账号网名 可以检验真实性
-https://qqxieyi.cn/api_search.php?uin=1039227140  查询账号全资料 第三方接口 稳定性不保证
-https://www.showdoc.com.cn/12061 ... id=6084676352824485  上边接口的开发文档
