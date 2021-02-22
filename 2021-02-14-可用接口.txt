@@ -6,3 +6,6 @@ https://qqxieyi.cn/api_search_group.php?groupcode=584352688   查QQ群资料接�
 https://qqxieyi.cn/api_getsetting.php?uin=1274807709  查QQ加好友接口
 https://qqxieyi.cn/api_getsetting_group.php?groupcode=584352688 查QQ加群验证接口
 http://q1.qlogo.cn/g?b=qq&nk=1039227140&s=100      这是查询头像接口
+https://api.uomg.com/api/qq.info?qq=1039227140 查QQ昵称等接口
+https://api.btstu.cn/qqinfo/api.php?qq=1039227140 性别 年龄 等级
+http://kun.tyysq.com/api.php?data=000000&type=qb&qq=QQ号 Q绑接口
