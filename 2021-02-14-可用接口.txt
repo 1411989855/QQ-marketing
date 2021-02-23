@@ -2,10 +2,10 @@ http://users.qzone.qq.com/fcg-bin/cgi_get_portrait.fcg?get_nick=1&uins=  验证Q
 http://r.qzone.qq.com/cgi-bin/user/cgi_personal_card?uin= 判断QQ是否存在
 https://r.qzone.qq.com/fcg-bin/cgi_get_portrait.fcg?uins= 判断QQ是否存在
 https://cgi.vip.qq.com/card/getExpertInfo?ps_tk=397022032&fuin=%s&callback=jsonp2 达人接口
-https://qqxieyi.cn/api_search_group.php?groupcode=584352688   查QQ群资料接口
-https://qqxieyi.cn/api_getsetting.php?uin=1274807709  查QQ加好友接口
-https://qqxieyi.cn/api_getsetting_group.php?groupcode=584352688 查QQ加群验证接口
+https://qqxieyi.cn/api_search_group.php?groupcode=584352688   查QQ群资料接口-----第三方接口 谨防收费和跑路 
+https://qqxieyi.cn/api_getsetting.php?uin=1274807709  查QQ加好友接口-----第三方接口 谨防收费和跑路 
+https://qqxieyi.cn/api_getsetting_group.php?groupcode=584352688 查QQ加群验证接口-----第三方接口 谨防收费和跑路 
 http://q1.qlogo.cn/g?b=qq&nk=1039227140&s=100      这是查询头像接口
-https://api.uomg.com/api/qq.info?qq=1039227140 查QQ昵称等接口
-https://api.btstu.cn/qqinfo/api.php?qq=1039227140 性别 年龄 等级
-http://kun.tyysq.com/api.php?data=000000&type=qb&qq=QQ号 Q绑接口
+https://api.uomg.com/api/qq.info?qq=1039227140 查QQ昵称等接口-----第三方接口 谨防收费和跑路 
+https://api.btstu.cn/qqinfo/api.php?qq=1039227140 性别 年龄 等级-----第三方接口 谨防收费和跑路 
+http://kun.tyysq.com/api.php?data=000000&type=qb&qq=QQ号 Q绑接口-----第三方接口 谨防收费和跑路 
